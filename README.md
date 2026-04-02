@@ -1,6 +1,6 @@
 ## Hi 👋
 
-[![devyoungk's GitHub stats](https://github-readme-stats.vercel.app/api?username=devyoungk)](https://github.com/devyoungk/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devyoungk)
 
 <!--
 
